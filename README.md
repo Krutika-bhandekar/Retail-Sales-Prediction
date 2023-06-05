@@ -1,1 +1,1 @@
-# TED-Talks-Views-Prediction
+# Retail-Sales-Prediction
