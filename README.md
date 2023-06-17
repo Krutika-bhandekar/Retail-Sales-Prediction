@@ -8,3 +8,5 @@ The key features of this project include:
 * Model evaluation: Assessing the performance of the trained model.
 * Sales prediction: Using the trained model to make sales forecasts.
 
+The dataset used in this project consists of historical sales data and associated features. It includes information such as store ID, product ID, date, sales, promotions, and other relevant attributes. Due to confidentiality reasons, the exact dataset used in this project cannot be provided. However, you can use your own retail sales dataset or find publicly available datasets for retail sales forecasting.
+
