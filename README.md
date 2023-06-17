@@ -10,3 +10,5 @@ The key features of this project include:
 
 The dataset used in this project consists of historical sales data and associated features. It includes information such as store ID, product ID, date, sales, promotions, and other relevant attributes. Due to confidentiality reasons, the exact dataset used in this project cannot be provided. However, you can use your own retail sales dataset or find publicly available datasets for retail sales forecasting.
 
+The project notebook contains code for various stages, including data preprocessing, feature engineering, model training, and model evaluation. It provides detailed explanations and code comments to guide you through the process.
+
